@@ -9,7 +9,6 @@
     "msg": "Validation Failed: ELF missing from valid game database"
   },
   "4010": {
-    "msg": "Validation Failed: Bad or unexpected ISO contents"
   },
   "4011": {
     "msg": "Validation Failed: Extracted an unexpected amount of files from ISO"
